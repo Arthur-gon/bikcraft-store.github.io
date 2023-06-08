@@ -15,3 +15,6 @@
 
 /* utilidades */
 @import "./utilidades/componentes.css";
+
+/* bicicletas */
+@import "./bicicletas/bicicletas.css";
