@@ -1,6 +1,9 @@
 /* Header */
 @import "./global/header.css";
 
+/* Footer */
+@import "./global/footer.css";
+
 /* tipografia */
 @import "./utilidades/tipografia.css";
 
