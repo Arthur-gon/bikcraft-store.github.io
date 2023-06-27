@@ -23,6 +23,7 @@
 @import "./utilidades/componentes.css";
 
 /* bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
 /* seguros */
